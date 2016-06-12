@@ -4,7 +4,7 @@
     var Geo = require("./geo");
 
     //initialize map
-    mapboxgl.accessToken = 'pk.eyJ1IjoiZ2VvaXJpcyIsImEiOiJjaWw5azhyd3AwMDRtdzRrcmYxdG1wbWhyIn0.5ZiWM2RgGBsLKEmU5aHXlw';
+    mapboxgl.accessToken = '';
 
     var map = new mapboxgl.Map({
         container: 'map',
