@@ -1,0 +1,15 @@
+{
+    "name": "inflow-zurich",
+    "version": "1.0.0",
+    "description": "Map that displays the neighbourhoods where people moved to Zurich in 2015",
+    "main": "main.js",
+    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "turf": "2.0.0",
+        "mapbox-gl": "0.20.0"
+    },
+    "author": "Raluca",
+    "license": "ISC"
+}

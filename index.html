@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="de">
+
+<head>
+  <meta charset="utf-8">
+  <title>Zurich inflows</title>
+  <link href='https://fonts.googleapis.com/css?family=Raleway:400,300' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="css/style.css" />
+  <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.19.0/mapbox-gl.css' rel='stylesheet' />
+</head>
+
+<body>
+    <header>
+      <div id="title">Inflows to Zurich</div>
+      <div id="info">22341 Swiss inhabitants moved to Zurich in 2015. This map shows the major flows to Zurich and how many new inhabitants each neighbourhood received.</div>
+      <div id="play">
+        <a id="replay" href="#">Replay animation</a>       
+      </div>
+      <div id="legend">
+        <div class="subtitle">How to read the map?</div>
+        <div class="section">Flows of people - on the map are represented only flows with more than 20 persons</div>
+      <div id="legend-1"> 
+        <div class="row">
+          <div class="cell"> <span id="s1"></span></div>
+          <div class="cell">20 - 29 persons</div>
+        </div>
+        <div class="row">
+          <div class="cell"><span id="s2"></span></div>
+          <div class="cell">30 - 49 persons</div>
+        </div>
+        <div class="row">
+          <div class="cell"><span id="s3"></span></div>
+          <div class="cell">50 - 70 persons</div>
+        </div>
+      </div>
+      <div class="section">Neighbourhoods of Zurich - how many persons moved here in 2015</div>
+      <div id="legend-2">
+        <div class="row">
+          <div class="cell"><span id="c1"></span></div>
+          <div class="cell">400 persons</div>
+        </div>
+        <div class="row">
+          <div class="cell"><span id="c2"></span></div>
+          <div class="cell">1200 persons</div>
+        </div>
+      </div>
+      </div>
+    </header>
+
+    <div id="map"></div>
+    <div class="attribution"><a href="https://data.stadt-zuerich.ch/dataset/bev-zuz-jahr-quartier-v2" target="_blank">Open Data Zurich (Zuzüge nach Quartier)</a> | <a href="https://data.stadt-zuerich.ch/dataset/statistisches-quartier" target="_blank">Open Data Zurich (Statistisches-quartier)</a> | <a href="https://opendata.swiss/en/dataset/swissboundaries3d-bezirksgrenzen1" target="_blank">Swisstopo (swissboundaries3D)</a> | <a href="https://www.mapbox.com/about/maps/" target="_blank">Mapbox</a> | <a href="http://www.openstreetmap.org/about/" target="_blank"> Open Street Map</a></div>
+    <script src="js/bundle.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,24 @@
+    body,html { margin:0; padding:0; font-family:'Raleway', sans-serif;}
+    #map { position:absolute; top:0; bottom:0; width:100%; }
+    header { position: absolute; top: 0; left:0; text-align: center; padding: 20px 20px; z-index:100; background-color: rgba(255,255,255,0.9); font-weight:300; max-width:350px;}
+    #title { font-size:40px; padding-bottom:20px; font-weight:400; }
+    #info { font-size:20px; }
+    #play { padding:20px 0; font-size: 20px; }
+    a { color: #b9557e; text-decoration:none; pointer-events:auto; }
+    .not-active { pointer-events: none; cursor: default; color: #aaa; }
+    #legend { font-size: 12px; text-align: left; display: table; }
+    .subtitle { font-size: 1.2em; }
+    .section {margin:10px 0;}
+    .row {display: table-row;}
+    .cell {display: table-cell; vertical-align: middle;}
+    #legend-1 span { width:50px; display: inline-block; margin-bottom: 4px; margin-right:10px; background-color: rgba(120, 101, 131, 0.4);}
+    #s1 {height: 1px;}
+    #s2 {height: 3px;}
+    #s3 {height: 5px;} 
+    #legend-2 span { text-align: center; display: inline-block; border-radius: 50%; background: radial-gradient(rgba(120, 101, 131,1) 30%, rgba(120, 101, 131,0) 60%);}
+    #c1 {width:20px; height:20px; margin-bottom: -5px; margin-left:10px;}
+    #c2 {width:40px; height:40px;}
+    .mapboxgl-popup-content { background-color: rgba(255,255,255,0.9) !important; font-family:'Raleway', sans-serif; padding:10px !important; }
+    .attribution { padding:2px; position:absolute; bottom:0; right:0; width:auto; background-color:rgba(255,255,255,0.8); font-size:11px; }
+    .attribution a { color:#000; }
+    a:hover { color: #b9557e; font-weight:400; }

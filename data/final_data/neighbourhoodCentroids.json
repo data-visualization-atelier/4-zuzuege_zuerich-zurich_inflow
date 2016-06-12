@@ -1,0 +1,521 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 52,
+        "qname": "Escher Wyss",
+        "noPeople": 561
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.515140245489084,
+          47.38982067179339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 102,
+        "qname": "Wipkingen",
+        "noPeople": 888
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.528676963320192,
+          47.39572269186754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 61,
+        "qname": "Unterstrass",
+        "noPeople": 1176
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.538864256874293,
+          47.3948861994971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 101,
+        "qname": "Höngg",
+        "noPeople": 878
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.495248734665266,
+          47.40793212142157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 115,
+        "qname": "Oerlikon",
+        "noPeople": 1491
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54323398217796,
+          47.40668239122657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 111,
+        "qname": "Affoltern",
+        "noPeople": 1025
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.513201525017251,
+          47.42142558609756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "qname": "City",
+        "noPeople": 69
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.53768689546464,
+          47.372044843499324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "qname": "Lindenhof",
+        "noPeople": 89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54152534237957,
+          47.368822172864995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 73,
+        "qname": "Hirslanden",
+        "noPeople": 356
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.572342524510407,
+          47.362278047486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 83,
+        "qname": "Weinegg",
+        "noPeople": 316
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.566464682479612,
+          47.35709934445406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 82,
+        "qname": "Mühlebach",
+        "noPeople": 377
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.557062816702446,
+          47.35761799872951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 81,
+        "qname": "Seefeld",
+        "noPeople": 293
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.555104798274268,
+          47.356816783589245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 21,
+        "qname": "Wollishofen",
+        "noPeople": 771
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.527585155853942,
+          47.33897123147688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 23,
+        "qname": "Leimbach",
+        "noPeople": 227
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.512352865273819,
+          47.33144837178172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 24,
+        "qname": "Enge",
+        "noPeople": 526
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.531293480485171,
+          47.36001731225751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 74,
+        "qname": "Witikon",
+        "noPeople": 435
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.602330338054406,
+          47.36034228335662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 44,
+        "qname": "Hard",
+        "noPeople": 721
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.51097136521104,
+          47.381299684683476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 42,
+        "qname": "Langstrasse",
+        "noPeople": 1135
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.527196571751691,
+          47.378298557372034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 41,
+        "qname": "Werd",
+        "noPeople": 277
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.525605811128813,
+          47.37254531326111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 34,
+        "qname": "Sihlfeld",
+        "noPeople": 1174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.509921902670573,
+          47.371749414223004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 91,
+        "qname": "Albisrieden",
+        "noPeople": 705
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.49056363645632,
+          47.372140957905614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 72,
+        "qname": "Hottingen",
+        "noPeople": 640
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.570638713005259,
+          47.37335641859511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "qname": "Rathaus",
+        "noPeople": 365
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.543703768597892,
+          47.36934568713745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 71,
+        "qname": "Fluntern",
+        "noPeople": 449
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.55888595493481,
+          47.37933850853706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 63,
+        "qname": "Oberstrass",
+        "noPeople": 568
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.549431634676035,
+          47.38653675370342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 121,
+        "qname": "Saatlen",
+        "noPeople": 570
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.566673719458501,
+          47.410960135867434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 119,
+        "qname": "Seebach",
+        "noPeople": 1515
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.539948065176912,
+          47.42336746276908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 33,
+        "qname": "Friesenberg",
+        "noPeople": 253
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.502311515521425,
+          47.35559215718841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "qname": "Hochschulen",
+        "noPeople": 56
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.54531641004113,
+          47.37089726750103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 92,
+        "qname": "Altstetten",
+        "noPeople": 1665
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.481393097519689,
+          47.38694350583203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 123,
+        "qname": "Hirzenbach",
+        "noPeople": 534
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.580289533969552,
+          47.3988605514265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 122,
+        "qname": "Schwamendingen-Mitte",
+        "noPeople": 581
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.570247879812136,
+          47.40344988132464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 31,
+        "qname": "Alt-Wiedikon",
+        "noPeople": 953
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.51477107738385,
+          47.365787861115514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 51,
+        "qname": "Gewerbeschule",
+        "noPeople": 702
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.529880569737651,
+          47.383594075194736
+        ]
+      }
+    }
+  ]
+}

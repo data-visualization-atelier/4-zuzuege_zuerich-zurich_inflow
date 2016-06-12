@@ -1,0 +1,2211 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 505,
+        "year": 2015,
+        "fromId": 62,
+        "fromPlace": "Kloten",
+        "toId": 92,
+        "toPlace": "Altstetten",
+        "noPeople": 33
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.601921225595248,
+            47.46407744304203
+          ],
+          [
+            8.481393097519689,
+            47.38694350583203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 510,
+        "year": 2015,
+        "fromId": 62,
+        "fromPlace": "Kloten",
+        "toId": 119,
+        "toPlace": "Seebach",
+        "noPeople": 53
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.601921225595248,
+            47.46407744304203
+          ],
+          [
+            8.539948065176912,
+            47.42336746276908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 572,
+        "year": 2015,
+        "fromId": 66,
+        "fromPlace": "Opfikon",
+        "toId": 111,
+        "toPlace": "Affoltern",
+        "noPeople": 39
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.575427450336576,
+            47.43203335392533
+          ],
+          [
+            8.513201525017251,
+            47.42142558609756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 573,
+        "year": 2015,
+        "fromId": 66,
+        "fromPlace": "Opfikon",
+        "toId": 115,
+        "toPlace": "Oerlikon",
+        "noPeople": 28
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.575427450336576,
+            47.43203335392533
+          ],
+          [
+            8.54323398217796,
+            47.40668239122657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 574,
+        "year": 2015,
+        "fromId": 66,
+        "fromPlace": "Opfikon",
+        "toId": 119,
+        "toPlace": "Seebach",
+        "noPeople": 70
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.575427450336576,
+            47.43203335392533
+          ],
+          [
+            8.539948065176912,
+            47.42336746276908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 575,
+        "year": 2015,
+        "fromId": 66,
+        "fromPlace": "Opfikon",
+        "toId": 121,
+        "toPlace": "Saatlen",
+        "noPeople": 27
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.575427450336576,
+            47.43203335392533
+          ],
+          [
+            8.566673719458501,
+            47.410960135867434
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 576,
+        "year": 2015,
+        "fromId": 66,
+        "fromPlace": "Opfikon",
+        "toId": 122,
+        "toPlace": "Schwamendingen-Mitte",
+        "noPeople": 28
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.575427450336576,
+            47.43203335392533
+          ],
+          [
+            8.570247879812136,
+            47.40344988132464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 624,
+        "year": 2015,
+        "fromId": 69,
+        "fromPlace": "Wallisellen",
+        "toId": 115,
+        "toPlace": "Oerlikon",
+        "noPeople": 24
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.596601557792782,
+            47.4194846835198
+          ],
+          [
+            8.54323398217796,
+            47.40668239122657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 625,
+        "year": 2015,
+        "fromId": 69,
+        "fromPlace": "Wallisellen",
+        "toId": 119,
+        "toPlace": "Seebach",
+        "noPeople": 21
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.596601557792782,
+            47.4194846835198
+          ],
+          [
+            8.539948065176912,
+            47.42336746276908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 873,
+        "year": 2015,
+        "fromId": 96,
+        "fromPlace": "Regensdorf",
+        "toId": 92,
+        "toPlace": "Altstetten",
+        "noPeople": 23
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.475125069049547,
+            47.444195419562796
+          ],
+          [
+            8.481393097519689,
+            47.38694350583203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 874,
+        "year": 2015,
+        "fromId": 96,
+        "fromPlace": "Regensdorf",
+        "toId": 101,
+        "toPlace": "Höngg",
+        "noPeople": 22
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.475125069049547,
+            47.444195419562796
+          ],
+          [
+            8.495248734665266,
+            47.40793212142157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 876,
+        "year": 2015,
+        "fromId": 96,
+        "fromPlace": "Regensdorf",
+        "toId": 111,
+        "toPlace": "Affoltern",
+        "noPeople": 44
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.475125069049547,
+            47.444195419562796
+          ],
+          [
+            8.513201525017251,
+            47.42142558609756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 878,
+        "year": 2015,
+        "fromId": 96,
+        "fromPlace": "Regensdorf",
+        "toId": 119,
+        "toPlace": "Seebach",
+        "noPeople": 39
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.475125069049547,
+            47.444195419562796
+          ],
+          [
+            8.539948065176912,
+            47.42336746276908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1154,
+        "year": 2015,
+        "fromId": 131,
+        "fromPlace": "Adliswil",
+        "toId": 21,
+        "toPlace": "Wollishofen",
+        "noPeople": 65
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.523889144335016,
+            47.308534647790204
+          ],
+          [
+            8.527585155853942,
+            47.33897123147688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1155,
+        "year": 2015,
+        "fromId": 131,
+        "fromPlace": "Adliswil",
+        "toId": 23,
+        "toPlace": "Leimbach",
+        "noPeople": 29
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.523889144335016,
+            47.308534647790204
+          ],
+          [
+            8.512352865273819,
+            47.33144837178172
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1728,
+        "year": 2015,
+        "fromId": 161,
+        "fromPlace": "Zollikon",
+        "toId": 82,
+        "toPlace": "Mühlebach",
+        "noPeople": 23
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.59163186686326,
+            47.34451786973076
+          ],
+          [
+            8.557062816702446,
+            47.35761799872951
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1849,
+        "year": 2015,
+        "fromId": 191,
+        "fromPlace": "Dübendorf",
+        "toId": 42,
+        "toPlace": "Langstrasse",
+        "noPeople": 22
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.613309959215297,
+            47.38667208696619
+          ],
+          [
+            8.527196571751691,
+            47.378298557372034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1863,
+        "year": 2015,
+        "fromId": 191,
+        "fromPlace": "Dübendorf",
+        "toId": 92,
+        "toPlace": "Altstetten",
+        "noPeople": 38
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.613309959215297,
+            47.38667208696619
+          ],
+          [
+            8.481393097519689,
+            47.38694350583203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1864,
+        "year": 2015,
+        "fromId": 191,
+        "fromPlace": "Dübendorf",
+        "toId": 101,
+        "toPlace": "Höngg",
+        "noPeople": 26
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.613309959215297,
+            47.38667208696619
+          ],
+          [
+            8.495248734665266,
+            47.40793212142157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1866,
+        "year": 2015,
+        "fromId": 191,
+        "fromPlace": "Dübendorf",
+        "toId": 111,
+        "toPlace": "Affoltern",
+        "noPeople": 24
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.613309959215297,
+            47.38667208696619
+          ],
+          [
+            8.513201525017251,
+            47.42142558609756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1867,
+        "year": 2015,
+        "fromId": 191,
+        "fromPlace": "Dübendorf",
+        "toId": 115,
+        "toPlace": "Oerlikon",
+        "noPeople": 43
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.613309959215297,
+            47.38667208696619
+          ],
+          [
+            8.54323398217796,
+            47.40668239122657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1868,
+        "year": 2015,
+        "fromId": 191,
+        "fromPlace": "Dübendorf",
+        "toId": 119,
+        "toPlace": "Seebach",
+        "noPeople": 47
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.613309959215297,
+            47.38667208696619
+          ],
+          [
+            8.539948065176912,
+            47.42336746276908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1871,
+        "year": 2015,
+        "fromId": 191,
+        "fromPlace": "Dübendorf",
+        "toId": 123,
+        "toPlace": "Hirzenbach",
+        "noPeople": 51
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.613309959215297,
+            47.38667208696619
+          ],
+          [
+            8.580289533969552,
+            47.3988605514265
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2019,
+        "year": 2015,
+        "fromId": 198,
+        "fromPlace": "Uster",
+        "toId": 42,
+        "toPlace": "Langstrasse",
+        "noPeople": 42
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7199408033266,
+            47.350424086921095
+          ],
+          [
+            8.527196571751691,
+            47.378298557372034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2033,
+        "year": 2015,
+        "fromId": 198,
+        "fromPlace": "Uster",
+        "toId": 92,
+        "toPlace": "Altstetten",
+        "noPeople": 21
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.7199408033266,
+            47.350424086921095
+          ],
+          [
+            8.481393097519689,
+            47.38694350583203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2201,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 21,
+        "toPlace": "Wollishofen",
+        "noPeople": 35
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.527585155853942,
+            47.33897123147688
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2204,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 31,
+        "toPlace": "Alt-Wiedikon",
+        "noPeople": 45
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.51477107738385,
+            47.365787861115514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2206,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 34,
+        "toPlace": "Sihlfeld",
+        "noPeople": 42
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.509921902670573,
+            47.371749414223004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2208,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 42,
+        "toPlace": "Langstrasse",
+        "noPeople": 31
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.527196571751691,
+            47.378298557372034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2209,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 44,
+        "toPlace": "Hard",
+        "noPeople": 27
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.51097136521104,
+            47.381299684683476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2210,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 51,
+        "toPlace": "Gewerbeschule",
+        "noPeople": 26
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.529880569737651,
+            47.383594075194736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2212,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 61,
+        "toPlace": "Unterstrass",
+        "noPeople": 46
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.538864256874293,
+            47.3948861994971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2213,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 63,
+        "toPlace": "Oberstrass",
+        "noPeople": 23
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.549431634676035,
+            47.38653675370342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2222,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 92,
+        "toPlace": "Altstetten",
+        "noPeople": 52
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.481393097519689,
+            47.38694350583203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2223,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 101,
+        "toPlace": "Höngg",
+        "noPeople": 33
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.495248734665266,
+            47.40793212142157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2224,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 102,
+        "toPlace": "Wipkingen",
+        "noPeople": 27
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.528676963320192,
+            47.39572269186754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2225,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 111,
+        "toPlace": "Affoltern",
+        "noPeople": 27
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.513201525017251,
+            47.42142558609756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2226,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 115,
+        "toPlace": "Oerlikon",
+        "noPeople": 58
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.54323398217796,
+            47.40668239122657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2227,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 119,
+        "toPlace": "Seebach",
+        "noPeople": 39
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.539948065176912,
+            47.42336746276908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2229,
+        "year": 2015,
+        "fromId": 230,
+        "fromPlace": "Winterthur",
+        "toId": 122,
+        "toPlace": "Schwamendingen-Mitte",
+        "noPeople": 22
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.739199044312253,
+            47.50009242928509
+          ],
+          [
+            8.570247879812136,
+            47.40344988132464
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2286,
+        "year": 2015,
+        "fromId": 243,
+        "fromPlace": "Dietikon",
+        "toId": 34,
+        "toPlace": "Sihlfeld",
+        "noPeople": 23
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.397280583691678,
+            47.39933592681661
+          ],
+          [
+            8.509921902670573,
+            47.371749414223004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2289,
+        "year": 2015,
+        "fromId": 243,
+        "fromPlace": "Dietikon",
+        "toId": 44,
+        "toPlace": "Hard",
+        "noPeople": 22
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.397280583691678,
+            47.39933592681661
+          ],
+          [
+            8.51097136521104,
+            47.381299684683476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2299,
+        "year": 2015,
+        "fromId": 243,
+        "fromPlace": "Dietikon",
+        "toId": 91,
+        "toPlace": "Albisrieden",
+        "noPeople": 28
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.397280583691678,
+            47.39933592681661
+          ],
+          [
+            8.49056363645632,
+            47.372140957905614
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2300,
+        "year": 2015,
+        "fromId": 243,
+        "fromPlace": "Dietikon",
+        "toId": 92,
+        "toPlace": "Altstetten",
+        "noPeople": 55
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.397280583691678,
+            47.39933592681661
+          ],
+          [
+            8.481393097519689,
+            47.38694350583203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2301,
+        "year": 2015,
+        "fromId": 243,
+        "fromPlace": "Dietikon",
+        "toId": 101,
+        "toPlace": "Höngg",
+        "noPeople": 24
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.397280583691678,
+            47.39933592681661
+          ],
+          [
+            8.495248734665266,
+            47.40793212142157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2303,
+        "year": 2015,
+        "fromId": 243,
+        "fromPlace": "Dietikon",
+        "toId": 111,
+        "toPlace": "Affoltern",
+        "noPeople": 24
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.397280583691678,
+            47.39933592681661
+          ],
+          [
+            8.513201525017251,
+            47.42142558609756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2304,
+        "year": 2015,
+        "fromId": 243,
+        "fromPlace": "Dietikon",
+        "toId": 115,
+        "toPlace": "Oerlikon",
+        "noPeople": 27
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.397280583691678,
+            47.39933592681661
+          ],
+          [
+            8.54323398217796,
+            47.40668239122657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2305,
+        "year": 2015,
+        "fromId": 243,
+        "fromPlace": "Dietikon",
+        "toId": 119,
+        "toPlace": "Seebach",
+        "noPeople": 32
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.397280583691678,
+            47.39933592681661
+          ],
+          [
+            8.539948065176912,
+            47.42336746276908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2348,
+        "year": 2015,
+        "fromId": 245,
+        "fromPlace": "Oberengstringen",
+        "toId": 92,
+        "toPlace": "Altstetten",
+        "noPeople": 22
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.469210040782432,
+            47.41352484156821
+          ],
+          [
+            8.481393097519689,
+            47.38694350583203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2349,
+        "year": 2015,
+        "fromId": 245,
+        "fromPlace": "Oberengstringen",
+        "toId": 101,
+        "toPlace": "Höngg",
+        "noPeople": 33
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.469210040782432,
+            47.41352484156821
+          ],
+          [
+            8.495248734665266,
+            47.40793212142157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2378,
+        "year": 2015,
+        "fromId": 247,
+        "fromPlace": "Schlieren",
+        "toId": 34,
+        "toPlace": "Sihlfeld",
+        "noPeople": 21
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.450022223340019,
+            47.392919547158094
+          ],
+          [
+            8.509921902670573,
+            47.371749414223004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2393,
+        "year": 2015,
+        "fromId": 247,
+        "fromPlace": "Schlieren",
+        "toId": 92,
+        "toPlace": "Altstetten",
+        "noPeople": 61
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.450022223340019,
+            47.392919547158094
+          ],
+          [
+            8.481393097519689,
+            47.38694350583203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2396,
+        "year": 2015,
+        "fromId": 247,
+        "fromPlace": "Schlieren",
+        "toId": 111,
+        "toPlace": "Affoltern",
+        "noPeople": 21
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.450022223340019,
+            47.392919547158094
+          ],
+          [
+            8.513201525017251,
+            47.42142558609756
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2398,
+        "year": 2015,
+        "fromId": 247,
+        "fromPlace": "Schlieren",
+        "toId": 119,
+        "toPlace": "Seebach",
+        "noPeople": 28
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.450022223340019,
+            47.392919547158094
+          ],
+          [
+            8.539948065176912,
+            47.42336746276908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2602,
+        "year": 2015,
+        "fromId": 351,
+        "fromPlace": "Bern",
+        "toId": 31,
+        "toPlace": "Alt-Wiedikon",
+        "noPeople": 29
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.398964390614493,
+            46.94387681881604
+          ],
+          [
+            8.51477107738385,
+            47.365787861115514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2604,
+        "year": 2015,
+        "fromId": 351,
+        "fromPlace": "Bern",
+        "toId": 34,
+        "toPlace": "Sihlfeld",
+        "noPeople": 47
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.398964390614493,
+            46.94387681881604
+          ],
+          [
+            8.509921902670573,
+            47.371749414223004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2606,
+        "year": 2015,
+        "fromId": 351,
+        "fromPlace": "Bern",
+        "toId": 42,
+        "toPlace": "Langstrasse",
+        "noPeople": 45
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.398964390614493,
+            46.94387681881604
+          ],
+          [
+            8.527196571751691,
+            47.378298557372034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2608,
+        "year": 2015,
+        "fromId": 351,
+        "fromPlace": "Bern",
+        "toId": 51,
+        "toPlace": "Gewerbeschule",
+        "noPeople": 22
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.398964390614493,
+            46.94387681881604
+          ],
+          [
+            8.529880569737651,
+            47.383594075194736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2609,
+        "year": 2015,
+        "fromId": 351,
+        "fromPlace": "Bern",
+        "toId": 52,
+        "toPlace": "Escher Wyss",
+        "noPeople": 25
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.398964390614493,
+            46.94387681881604
+          ],
+          [
+            8.515140245489084,
+            47.38982067179339
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2610,
+        "year": 2015,
+        "fromId": 351,
+        "fromPlace": "Bern",
+        "toId": 61,
+        "toPlace": "Unterstrass",
+        "noPeople": 25
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.398964390614493,
+            46.94387681881604
+          ],
+          [
+            8.538864256874293,
+            47.3948861994971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2611,
+        "year": 2015,
+        "fromId": 351,
+        "fromPlace": "Bern",
+        "toId": 63,
+        "toPlace": "Oberstrass",
+        "noPeople": 22
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.398964390614493,
+            46.94387681881604
+          ],
+          [
+            8.549431634676035,
+            47.38653675370342
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2620,
+        "year": 2015,
+        "fromId": 351,
+        "fromPlace": "Bern",
+        "toId": 92,
+        "toPlace": "Altstetten",
+        "noPeople": 32
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.398964390614493,
+            46.94387681881604
+          ],
+          [
+            8.481393097519689,
+            47.38694350583203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2621,
+        "year": 2015,
+        "fromId": 351,
+        "fromPlace": "Bern",
+        "toId": 101,
+        "toPlace": "Höngg",
+        "noPeople": 26
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.398964390614493,
+            46.94387681881604
+          ],
+          [
+            8.495248734665266,
+            47.40793212142157
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2624,
+        "year": 2015,
+        "fromId": 351,
+        "fromPlace": "Bern",
+        "toId": 115,
+        "toPlace": "Oerlikon",
+        "noPeople": 24
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.398964390614493,
+            46.94387681881604
+          ],
+          [
+            8.54323398217796,
+            47.40668239122657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3211,
+        "year": 2015,
+        "fromId": 1004,
+        "fromPlace": "Flühli",
+        "toId": 61,
+        "toPlace": "Unterstrass",
+        "noPeople": 22
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.001271599187477,
+            46.84264048068943
+          ],
+          [
+            8.538864256874293,
+            47.3948861994971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3405,
+        "year": 2015,
+        "fromId": 1061,
+        "fromPlace": "Luzern",
+        "toId": 31,
+        "toPlace": "Alt-Wiedikon",
+        "noPeople": 27
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.286572534518802,
+            47.0578933768215
+          ],
+          [
+            8.51477107738385,
+            47.365787861115514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3407,
+        "year": 2015,
+        "fromId": 1061,
+        "fromPlace": "Luzern",
+        "toId": 34,
+        "toPlace": "Sihlfeld",
+        "noPeople": 31
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.286572534518802,
+            47.0578933768215
+          ],
+          [
+            8.509921902670573,
+            47.371749414223004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3409,
+        "year": 2015,
+        "fromId": 1061,
+        "fromPlace": "Luzern",
+        "toId": 42,
+        "toPlace": "Langstrasse",
+        "noPeople": 26
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.286572534518802,
+            47.0578933768215
+          ],
+          [
+            8.527196571751691,
+            47.378298557372034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3411,
+        "year": 2015,
+        "fromId": 1061,
+        "fromPlace": "Luzern",
+        "toId": 51,
+        "toPlace": "Gewerbeschule",
+        "noPeople": 26
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.286572534518802,
+            47.0578933768215
+          ],
+          [
+            8.529880569737651,
+            47.383594075194736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3413,
+        "year": 2015,
+        "fromId": 1061,
+        "fromPlace": "Luzern",
+        "toId": 61,
+        "toPlace": "Unterstrass",
+        "noPeople": 27
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.286572534518802,
+            47.0578933768215
+          ],
+          [
+            8.538864256874293,
+            47.3948861994971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3423,
+        "year": 2015,
+        "fromId": 1061,
+        "fromPlace": "Luzern",
+        "toId": 92,
+        "toPlace": "Altstetten",
+        "noPeople": 31
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.286572534518802,
+            47.0578933768215
+          ],
+          [
+            8.481393097519689,
+            47.38694350583203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3425,
+        "year": 2015,
+        "fromId": 1061,
+        "fromPlace": "Luzern",
+        "toId": 102,
+        "toPlace": "Wipkingen",
+        "noPeople": 21
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.286572534518802,
+            47.0578933768215
+          ],
+          [
+            8.528676963320192,
+            47.39572269186754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3427,
+        "year": 2015,
+        "fromId": 1061,
+        "fromPlace": "Luzern",
+        "toId": 115,
+        "toPlace": "Oerlikon",
+        "noPeople": 32
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            8.286572534518802,
+            47.0578933768215
+          ],
+          [
+            8.54323398217796,
+            47.40668239122657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4745,
+        "year": 2015,
+        "fromId": 2701,
+        "fromPlace": "Basel",
+        "toId": 11,
+        "toPlace": "Rathaus",
+        "noPeople": 30
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.598220685837765,
+            47.55132236497742
+          ],
+          [
+            8.543703768597892,
+            47.36934568713745
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4752,
+        "year": 2015,
+        "fromId": 2701,
+        "fromPlace": "Basel",
+        "toId": 31,
+        "toPlace": "Alt-Wiedikon",
+        "noPeople": 26
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.598220685837765,
+            47.55132236497742
+          ],
+          [
+            8.51477107738385,
+            47.365787861115514
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4754,
+        "year": 2015,
+        "fromId": 2701,
+        "fromPlace": "Basel",
+        "toId": 34,
+        "toPlace": "Sihlfeld",
+        "noPeople": 25
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.598220685837765,
+            47.55132236497742
+          ],
+          [
+            8.509921902670573,
+            47.371749414223004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4756,
+        "year": 2015,
+        "fromId": 2701,
+        "fromPlace": "Basel",
+        "toId": 42,
+        "toPlace": "Langstrasse",
+        "noPeople": 51
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.598220685837765,
+            47.55132236497742
+          ],
+          [
+            8.527196571751691,
+            47.378298557372034
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4757,
+        "year": 2015,
+        "fromId": 2701,
+        "fromPlace": "Basel",
+        "toId": 44,
+        "toPlace": "Hard",
+        "noPeople": 23
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.598220685837765,
+            47.55132236497742
+          ],
+          [
+            8.51097136521104,
+            47.381299684683476
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4758,
+        "year": 2015,
+        "fromId": 2701,
+        "fromPlace": "Basel",
+        "toId": 51,
+        "toPlace": "Gewerbeschule",
+        "noPeople": 21
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.598220685837765,
+            47.55132236497742
+          ],
+          [
+            8.529880569737651,
+            47.383594075194736
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4760,
+        "year": 2015,
+        "fromId": 2701,
+        "fromPlace": "Basel",
+        "toId": 61,
+        "toPlace": "Unterstrass",
+        "noPeople": 28
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.598220685837765,
+            47.55132236497742
+          ],
+          [
+            8.538864256874293,
+            47.3948861994971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4772,
+        "year": 2015,
+        "fromId": 2701,
+        "fromPlace": "Basel",
+        "toId": 102,
+        "toPlace": "Wipkingen",
+        "noPeople": 32
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.598220685837765,
+            47.55132236497742
+          ],
+          [
+            8.528676963320192,
+            47.39572269186754
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4774,
+        "year": 2015,
+        "fromId": 2701,
+        "fromPlace": "Basel",
+        "toId": 115,
+        "toPlace": "Oerlikon",
+        "noPeople": 24
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            7.598220685837765,
+            47.55132236497742
+          ],
+          [
+            8.54323398217796,
+            47.40668239122657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5304,
+        "year": 2015,
+        "fromId": 3203,
+        "fromPlace": "St. Gallen",
+        "toId": 34,
+        "toPlace": "Sihlfeld",
+        "noPeople": 25
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.376720580677437,
+            47.42279201341046
+          ],
+          [
+            8.509921902670573,
+            47.371749414223004
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5310,
+        "year": 2015,
+        "fromId": 3203,
+        "fromPlace": "St. Gallen",
+        "toId": 61,
+        "toPlace": "Unterstrass",
+        "noPeople": 28
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.376720580677437,
+            47.42279201341046
+          ],
+          [
+            8.538864256874293,
+            47.3948861994971
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5320,
+        "year": 2015,
+        "fromId": 3203,
+        "fromPlace": "St. Gallen",
+        "toId": 92,
+        "toPlace": "Altstetten",
+        "noPeople": 21
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.376720580677437,
+            47.42279201341046
+          ],
+          [
+            8.481393097519689,
+            47.38694350583203
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5324,
+        "year": 2015,
+        "fromId": 3203,
+        "fromPlace": "St. Gallen",
+        "toId": 115,
+        "toPlace": "Oerlikon",
+        "noPeople": 25
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.376720580677437,
+            47.42279201341046
+          ],
+          [
+            8.54323398217796,
+            47.40668239122657
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5325,
+        "year": 2015,
+        "fromId": 3203,
+        "fromPlace": "St. Gallen",
+        "toId": 119,
+        "toPlace": "Seebach",
+        "noPeople": 26
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            9.376720580677437,
+            47.42279201341046
+          ],
+          [
+            8.539948065176912,
+            47.42336746276908
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9197,
+        "year": 2015,
+        "fromId": 6621,
+        "fromPlace": "Genève",
+        "toId": 61,
+        "toPlace": "Unterstrass",
+        "noPeople": 22
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            6.1387719050912715,
+            46.20779939800279
+          ],
+          [
+            8.538864256874293,
+            47.3948861994971
+          ]
+        ]
+      }
+    }
+  ]
+}
